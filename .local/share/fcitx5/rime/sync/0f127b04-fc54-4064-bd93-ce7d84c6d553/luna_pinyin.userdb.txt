@@ -2,92 +2,101 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.9.0
-#@/tick	117
+#@/tick	137
 #@/user_id	0f127b04-fc54-4064-bd93-ce7d84c6d553
-an zhuang 	安裝	c=4 d=2.89765 t=117
-ba wo 	把我	c=1 d=1 t=97
-ban ben 	版本	c=3 d=2.47828 t=117
-ben di 	本地	c=1 d=0.952144 t=109
-ben di cang ku 	本地倉庫	c=1 d=1 t=110
-bu ding 	不定	c=1 d=1 t=116
-bu ding 	補丁	c=1 d=1 t=117
-bu tong 	不同	c=2 d=1.91209 t=117
-cang ku 	倉庫	c=2 d=1.9385 t=109
-cao ni ma 	草泥馬	c=0 d=0.0923116 t=117
-cao zuo 	操作	c=1 d=1 t=106
-chan sheng 	產生	c=1 d=1 t=91
-chong tu 	衝突	c=1 d=1 t=93
-chu le 	除了	c=1 d=0.960789 t=117
-cun zai 	存在	c=0 d=0.1 t=84
-de 	的	c=5 d=4.02316 t=117
-er zai 	而在	c=1 d=1 t=82
-ge 	個	c=0 d=0.0927743 t=117
-guan bi 	關閉	c=2 d=1.86488 t=117
-hai 	還	c=0 d=0.1 t=84
-hai cun zai 	還存在	c=1 d=1 t=85
-hui dao 	回到	c=2 d=1.70324 t=117
-jia le 	加了	c=1 d=0.951229 t=117
-jie jue 	解決	c=1 d=1 t=95
-jiu 	就	c=1 d=0.913931 t=117
-ke shi 	可是	c=1 d=0.891366 t=117
-ke xue 	科學	c=0 d=0.0951229 t=117
-ke xue shang wang 	科學上網	c=3 d=2.50084 t=117
-le 	了	c=6 d=4.73377 t=117
-ma 	嗎	c=1 d=1 t=74
-mei hua 	梅花	c=1 d=0.995012 t=117
-ming ling 	命令	c=1 d=0.99005 t=117
-mo ni qi 	模擬器	c=1 d=1 t=73
-na ge 	那個	c=2 d=1.91851 t=103
-ni ma 	你媽	c=0 d=0.0927743 t=117
-ni ma ge 	你媽個	c=1 d=0.932394 t=117
-pei se 	配色	c=2 d=1.84163 t=117
-pei zhi 	配制	c=1 d=0.995012 t=117
-pei zhi 	配置	c=2 d=1.99005 t=117
-qie huan dao 	切換到	c=1 d=0.960789 t=117
-rang 	讓	c=1 d=0.941765 t=117
-shan chu 	刪除	c=4 d=3.45204 t=117
-shang 	上	c=1 d=0.878095 t=117
-shang ci 	上次	c=1 d=1 t=108
-shang wang 	上網	c=0 d=0.0951229 t=117
-shang yi ge 	上一個	c=1 d=0.97531 t=117
-sheng lve 	省略	c=1 d=0.955997 t=117
-shi 	是	c=1 d=1 t=71
-shi xian 	實現	c=1 d=0.99005 t=117
-shi yong 	使用	c=1 d=0.985112 t=117
-shou dao 	收到	c=1 d=0.904837 t=117
-shu ru fa 	輸入法	c=1 d=0.99005 t=117
-suo you 	所有	c=1 d=0.970446 t=117
-tian jia 	添加	c=0 d=0.099005 t=117
-tian jia le 	添加了	c=2 d=1.56162 t=117
-tong zhi 	通知	c=2 d=1.81151 t=117
-wen jian 	文件	c=5 d=4.04419 t=117
-wo 	我	c=2 d=1.75584 t=117
-wo cao ni ma 	我草泥馬	c=1 d=0.927743 t=117
-wo xiang 	我想	c=0 d=0.1 t=97
-wo xiang 	我相	c=1 d=0.932394 t=117
-wo xiang rang 	我想讓	c=1 d=1 t=98
-wo zai 	我在	c=1 d=0.873716 t=117
-xian shi 	顯示	c=2 d=1.81293 t=117
-xiang 	想	c=2 d=1.62647 t=117
-xie 	寫	c=0 d=0.0937067 t=117
-xie yi ge 	寫一個	c=1 d=0.941765 t=117
-xin xi 	信息	c=1 d=0.909373 t=117
-xiu gai 	修改	c=1 d=1 t=68
-yan se 	顏色	c=1 d=0.97531 t=117
-yao qiu 	要求	c=1 d=0.951229 t=117
-ye 	也	c=1 d=1 t=101
-yi 	一	c=1 d=0.900325 t=117
-yi ge 	一個	c=1 d=0.903718 t=117
-yi shou dao 	已收到	c=1 d=0.895834 t=117
-yi wai 	以外	c=1 d=0.965605 t=117
-yin cang wen jian 	隱藏文件	c=1 d=0.980199 t=117
-yong 	用	c=1 d=0.985112 t=117
-yu yan 	語言	c=1 d=0.995012 t=117
-yuan cheng 	遠程	c=2 d=1.92312 t=99
-zai 	在	c=1 d=1 t=76
-zen me 	怎麼	c=3 d=2.5927 t=117
-zen me yong 	怎麼用	c=1 d=0.869358 t=117
-zhe yang 	這樣	c=1 d=1 t=89
-zhong duan 	終端	c=2 d=1.80654 t=115
-zhun huan 	准環	c=1 d=1 t=88
-zi dong 	自動	c=2 d=1.85558 t=117
+an zhuang 	安裝	c=5 d=3.7831 t=137
+ba wo 	把我	c=1 d=0.904837 t=137
+ban ben 	版本	c=4 d=3.38806 t=137
+ben di 	本地	c=1 d=0.91481 t=137
+ben di cang ku 	本地倉庫	c=1 d=0.965605 t=137
+bu ding 	不定	c=1 d=0.995012 t=137
+bu ding 	補丁	c=1 d=1 t=137
+bu tong 	不同	c=2 d=1.91209 t=137
+cai 	才	c=1 d=0.970446 t=137
+cang ku 	倉庫	c=4 d=3.70487 t=137
+cao ni ma 	草泥馬	c=0 d=0.0923116 t=137
+cao zuo 	操作	c=1 d=0.946485 t=137
+cha jian 	插件	c=1 d=0.946485 t=137
+chan sheng 	產生	c=1 d=0.878095 t=137
+chong tu 	衝突	c=1 d=0.88692 t=137
+chu le 	除了	c=1 d=0.960789 t=137
+cun zai 	存在	c=0 d=0.0847894 t=137
+de 	的	c=7 d=5.56592 t=137
+er zai 	而在	c=1 d=0.839457 t=137
+ge 	個	c=0 d=0.0927743 t=137
+guan bi 	關閉	c=2 d=1.86488 t=137
+hai 	還	c=0 d=0.0847894 t=137
+hai cun zai 	還存在	c=1 d=0.852144 t=137
+hui dao 	回到	c=2 d=1.70324 t=137
+jia le 	加了	c=1 d=0.951229 t=137
+jie jue 	解決	c=1 d=0.895834 t=137
+jiu 	就	c=1 d=0.913931 t=137
+ke shi 	可是	c=1 d=0.891366 t=137
+ke xue 	科學	c=0 d=0.0951229 t=137
+ke xue shang wang 	科學上網	c=3 d=2.50084 t=137
+le 	了	c=6 d=4.73377 t=137
+ma 	嗎	c=1 d=0.806541 t=137
+mei hua 	梅花	c=1 d=0.995012 t=137
+ming ling 	命令	c=1 d=0.99005 t=137
+mo ni qi 	模擬器	c=1 d=0.802519 t=137
+na ge 	那個	c=2 d=1.78881 t=137
+ni ma 	你媽	c=0 d=0.0927743 t=137
+ni ma ge 	你媽個	c=1 d=0.932394 t=137
+pan ben 	盤本	c=1 d=0.99005 t=137
+pei se 	配色	c=2 d=1.84163 t=137
+pei zhi 	配制	c=1 d=0.995012 t=137
+pei zhi 	配置	c=3 d=2.9018 t=137
+qie huan dao 	切換到	c=1 d=0.960789 t=137
+rang 	讓	c=1 d=0.941765 t=137
+shan chu 	刪除	c=4 d=3.45204 t=137
+shang 	上	c=1 d=0.878095 t=137
+shang ci 	上次	c=1 d=0.955997 t=137
+shang wang 	上網	c=0 d=0.0951229 t=137
+shang yi ge 	上一個	c=1 d=0.97531 t=137
+sheng lve 	省略	c=1 d=0.955997 t=137
+shi 	是	c=1 d=0.794534 t=137
+shi shen me 	是什麼	c=1 d=1 t=137
+shi xian 	實現	c=1 d=0.99005 t=137
+shi yong 	使用	c=1 d=0.985112 t=137
+shou dao 	收到	c=1 d=0.904837 t=137
+shu ru fa 	輸入法	c=1 d=0.99005 t=137
+suo you 	所有	c=1 d=0.970446 t=137
+tian jia 	添加	c=0 d=0.099005 t=137
+tian jia le 	添加了	c=2 d=1.56162 t=137
+tong zhi 	通知	c=2 d=1.81151 t=137
+wen jian 	文件	c=7 d=5.88544 t=137
+wo 	我	c=2 d=1.75584 t=137
+wo cao ni ma 	我草泥馬	c=1 d=0.927743 t=137
+wo de 	我的	c=1 d=0.97531 t=137
+wo xiang 	我想	c=0 d=0.0904837 t=137
+wo xiang 	我相	c=1 d=0.932394 t=137
+wo xiang rang 	我想讓	c=1 d=0.909373 t=137
+wo zai 	我在	c=1 d=0.873716 t=137
+xia zai 	下載	c=2 d=1.94111 t=137
+xian shi 	顯示	c=2 d=1.81293 t=137
+xiang 	想	c=2 d=1.62647 t=137
+xie 	寫	c=0 d=0.0937067 t=137
+xie yi ge 	寫一個	c=1 d=0.941765 t=137
+xin xi 	信息	c=1 d=0.909373 t=137
+xiu gai 	修改	c=1 d=0.782705 t=137
+yan se 	顏色	c=1 d=0.97531 t=137
+yao qiu 	要求	c=1 d=0.951229 t=137
+ye 	也	c=1 d=0.923116 t=137
+yi 	一	c=1 d=0.900325 t=137
+yi ge 	一個	c=1 d=0.903718 t=137
+yi shou dao 	已收到	c=1 d=0.895834 t=137
+yi wai 	以外	c=1 d=0.965605 t=137
+yin cang wen jian 	隱藏文件	c=1 d=0.980199 t=137
+yong 	用	c=1 d=0.985112 t=137
+yu yan 	語言	c=1 d=0.995012 t=137
+yuan cheng 	遠程	c=2 d=1.7576 t=137
+zai 	在	c=1 d=0.814647 t=137
+zen me 	怎麼	c=4 d=3.39294 t=137
+zen me yong 	怎麼用	c=1 d=0.869358 t=137
+zhe yang 	這樣	c=1 d=0.869358 t=137
+zhi ding 	制定	c=0 d=0.0965605 t=137
+zhi ding 	指定	c=2 d=1.97032 t=137
+zhi ding wen jian 	制定文件	c=1 d=0.970446 t=137
+zhong duan 	終端	c=2 d=1.78856 t=137
+zhun huan 	准環	c=1 d=0.865022 t=137
+zi dong 	自動	c=2 d=1.85558 t=137

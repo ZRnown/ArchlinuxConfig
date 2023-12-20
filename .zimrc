@@ -55,8 +55,8 @@ zmodule zsh-users/zsh-autosuggestions
 # }}} End configuration added by Zim install
 #
 #zmodule romkatv/powerlevel10k
-zmodule zdharma-continuum/fast-syntax-highlighting
-zmodule hlissner/zsh-autopair
-zmodule agkozak/zsh-z
-zmodule pabloariasal/zfm
+#zmodule zdharma-continuum/fast-syntax-highlighting
+#zmodule hlissner/zsh-autopair
+#zmodule agkozak/zsh-z
+#zmodule pabloariasal/zfm
 

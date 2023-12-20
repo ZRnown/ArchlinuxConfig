@@ -51,5 +51,5 @@ fi
 ~/scripts/runClash.sh &
 fcitx5 -d
 dunst &
-feh --recursive --randomize --bg-fill ~/pictures/background
+#feh --recursive --randomize --bg-fill ~/pictures/background
 exec dwm

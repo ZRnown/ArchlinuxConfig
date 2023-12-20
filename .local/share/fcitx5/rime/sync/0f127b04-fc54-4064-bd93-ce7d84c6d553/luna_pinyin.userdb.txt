@@ -2,101 +2,194 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.9.0
-#@/tick	137
+#@/tick	313
 #@/user_id	0f127b04-fc54-4064-bd93-ce7d84c6d553
-an zhuang 	安裝	c=5 d=3.7831 t=137
-ba wo 	把我	c=1 d=0.904837 t=137
-ban ben 	版本	c=4 d=3.38806 t=137
-ben di 	本地	c=1 d=0.91481 t=137
-ben di cang ku 	本地倉庫	c=1 d=0.965605 t=137
-bu ding 	不定	c=1 d=0.995012 t=137
-bu ding 	補丁	c=1 d=1 t=137
-bu tong 	不同	c=2 d=1.91209 t=137
-cai 	才	c=1 d=0.970446 t=137
-cang ku 	倉庫	c=4 d=3.70487 t=137
-cao ni ma 	草泥馬	c=0 d=0.0923116 t=137
-cao zuo 	操作	c=1 d=0.946485 t=137
-cha jian 	插件	c=1 d=0.946485 t=137
-chan sheng 	產生	c=1 d=0.878095 t=137
-chong tu 	衝突	c=1 d=0.88692 t=137
-chu le 	除了	c=1 d=0.960789 t=137
-cun zai 	存在	c=0 d=0.0847894 t=137
-de 	的	c=7 d=5.56592 t=137
-er zai 	而在	c=1 d=0.839457 t=137
-ge 	個	c=0 d=0.0927743 t=137
-guan bi 	關閉	c=2 d=1.86488 t=137
-hai 	還	c=0 d=0.0847894 t=137
-hai cun zai 	還存在	c=1 d=0.852144 t=137
-hui dao 	回到	c=2 d=1.70324 t=137
-jia le 	加了	c=1 d=0.951229 t=137
-jie jue 	解決	c=1 d=0.895834 t=137
-jiu 	就	c=1 d=0.913931 t=137
-ke shi 	可是	c=1 d=0.891366 t=137
-ke xue 	科學	c=0 d=0.0951229 t=137
-ke xue shang wang 	科學上網	c=3 d=2.50084 t=137
-le 	了	c=6 d=4.73377 t=137
-ma 	嗎	c=1 d=0.806541 t=137
-mei hua 	梅花	c=1 d=0.995012 t=137
-ming ling 	命令	c=1 d=0.99005 t=137
-mo ni qi 	模擬器	c=1 d=0.802519 t=137
-na ge 	那個	c=2 d=1.78881 t=137
-ni ma 	你媽	c=0 d=0.0927743 t=137
-ni ma ge 	你媽個	c=1 d=0.932394 t=137
-pan ben 	盤本	c=1 d=0.99005 t=137
-pei se 	配色	c=2 d=1.84163 t=137
-pei zhi 	配制	c=1 d=0.995012 t=137
-pei zhi 	配置	c=3 d=2.9018 t=137
-qie huan dao 	切換到	c=1 d=0.960789 t=137
-rang 	讓	c=1 d=0.941765 t=137
-shan chu 	刪除	c=4 d=3.45204 t=137
-shang 	上	c=1 d=0.878095 t=137
-shang ci 	上次	c=1 d=0.955997 t=137
-shang wang 	上網	c=0 d=0.0951229 t=137
-shang yi ge 	上一個	c=1 d=0.97531 t=137
-sheng lve 	省略	c=1 d=0.955997 t=137
-shi 	是	c=1 d=0.794534 t=137
-shi shen me 	是什麼	c=1 d=1 t=137
-shi xian 	實現	c=1 d=0.99005 t=137
-shi yong 	使用	c=1 d=0.985112 t=137
-shou dao 	收到	c=1 d=0.904837 t=137
-shu ru fa 	輸入法	c=1 d=0.99005 t=137
-suo you 	所有	c=1 d=0.970446 t=137
-tian jia 	添加	c=0 d=0.099005 t=137
-tian jia le 	添加了	c=2 d=1.56162 t=137
-tong zhi 	通知	c=2 d=1.81151 t=137
-wen jian 	文件	c=7 d=5.88544 t=137
-wo 	我	c=2 d=1.75584 t=137
-wo cao ni ma 	我草泥馬	c=1 d=0.927743 t=137
-wo de 	我的	c=1 d=0.97531 t=137
-wo xiang 	我想	c=0 d=0.0904837 t=137
-wo xiang 	我相	c=1 d=0.932394 t=137
-wo xiang rang 	我想讓	c=1 d=0.909373 t=137
-wo zai 	我在	c=1 d=0.873716 t=137
-xia zai 	下載	c=2 d=1.94111 t=137
-xian shi 	顯示	c=2 d=1.81293 t=137
-xiang 	想	c=2 d=1.62647 t=137
-xie 	寫	c=0 d=0.0937067 t=137
-xie yi ge 	寫一個	c=1 d=0.941765 t=137
-xin xi 	信息	c=1 d=0.909373 t=137
-xiu gai 	修改	c=1 d=0.782705 t=137
-yan se 	顏色	c=1 d=0.97531 t=137
-yao qiu 	要求	c=1 d=0.951229 t=137
-ye 	也	c=1 d=0.923116 t=137
-yi 	一	c=1 d=0.900325 t=137
-yi ge 	一個	c=1 d=0.903718 t=137
-yi shou dao 	已收到	c=1 d=0.895834 t=137
-yi wai 	以外	c=1 d=0.965605 t=137
-yin cang wen jian 	隱藏文件	c=1 d=0.980199 t=137
-yong 	用	c=1 d=0.985112 t=137
-yu yan 	語言	c=1 d=0.995012 t=137
-yuan cheng 	遠程	c=2 d=1.7576 t=137
-zai 	在	c=1 d=0.814647 t=137
-zen me 	怎麼	c=4 d=3.39294 t=137
-zen me yong 	怎麼用	c=1 d=0.869358 t=137
-zhe yang 	這樣	c=1 d=0.869358 t=137
-zhi ding 	制定	c=0 d=0.0965605 t=137
-zhi ding 	指定	c=2 d=1.97032 t=137
-zhi ding wen jian 	制定文件	c=1 d=0.970446 t=137
-zhong duan 	終端	c=2 d=1.78856 t=137
-zhun huan 	准環	c=1 d=0.865022 t=137
-zi dong 	自動	c=2 d=1.85558 t=137
+an zhuang 	安裝	c=7 d=4.61353 t=313
+ba wo 	把我	c=1 d=0.904837 t=313
+ban ben 	版本	c=4 d=3.38806 t=313
+bao 	包	c=2 d=1.65411 t=313
+bao cuo 	報錯	c=3 d=2.14196 t=313
+ben di 	本地	c=1 d=0.91481 t=313
+ben di cang ku 	本地倉庫	c=1 d=0.965605 t=313
+bu ding 	不定	c=1 d=0.995012 t=313
+bu ding 	補丁	c=2 d=1.78164 t=313
+bu tong 	不同	c=2 d=1.91209 t=313
+cai 	才	c=1 d=0.970446 t=313
+cang ku 	倉庫	c=4 d=3.70487 t=313
+cao ni ma 	草泥馬	c=0 d=0.0923116 t=313
+cao zuo 	操作	c=1 d=0.946485 t=313
+cha jian 	插件	c=1 d=0.946485 t=313
+chan sheng 	產生	c=1 d=0.878095 t=313
+chong tu 	衝突	c=1 d=0.88692 t=313
+chu le 	除了	c=1 d=0.960789 t=313
+chuang kou 	窗口	c=2 d=1.47907 t=313
+cun zai 	存在	c=0 d=0.0847894 t=313
+dang zuo 	當作	c=1 d=1 t=269
+de 	的	c=18 d=10.6801 t=313
+er bu shi 	而不是	c=1 d=1 t=257
+er zai 	而在	c=1 d=0.839457 t=313
+fa chu qu 	發出去	c=0 d=0.0937067 t=313
+fa chu qu le 	發出去了	c=1 d=0.941765 t=313
+fen bie 	分別	c=1 d=1 t=247
+gai 	改	c=2 d=1.90484 t=275
+gao su wo 	告訴我	c=1 d=0.847894 t=313
+ge 	個	c=0 d=0.0927743 t=313
+ge ge 	各個	c=0 d=0.1 t=280
+ge ge jian wei 	各個鍵位	c=1 d=1 t=281
+gong neng jian 	功能鍵	c=1 d=1 t=268
+gong qing tuan yuan 	共青團員	c=1 d=0.960789 t=313
+guan bi 	關閉	c=3 d=2.0461 t=313
+guang nian 	光年	c=0 d=0.099005 t=313
+guang nian xing huan 	光年星環	c=1 d=0.995012 t=313
+hai 	還	c=0 d=0.0847894 t=313
+hai cun zai 	還存在	c=1 d=0.852144 t=313
+he 	和	c=14 d=9.82679 t=313
+hou 	後	c=1 d=0.927743 t=313
+huan 	環	c=0 d=0.099005 t=313
+huan jing 	環境	c=0 d=0.0878095 t=313
+hui dao 	回到	c=2 d=1.70324 t=313
+jia le 	加了	c=1 d=0.951229 t=313
+jian 	鍵	c=6 d=5.162 t=296
+jian pan 	鍵盤	c=0 d=0.1 t=230
+jian pan pei 	鍵盤配	c=1 d=1 t=231
+jian shao 	減少	c=1 d=1 t=244
+jian wei 	鍵位	c=1 d=1.19312 t=286
+jian wei xie cuo le ma 	鍵位寫錯了嗎	c=1 d=1 t=279
+jian xiao 	減小	c=1 d=1 t=305
+jie jue 	解決	c=1 d=0.895834 t=313
+jiu 	就	c=1 d=0.913931 t=313
+kai qi 	開啓	c=1 d=1 t=270
+ke shi 	可是	c=2 d=1.79659 t=313
+ke xue 	科學	c=0 d=0.0951229 t=313
+ke xue shang wang 	科學上網	c=3 d=2.50084 t=313
+lai 	來	c=1 d=1 t=297
+lan ya 	藍牙	c=1 d=0.790571 t=313
+lan ya er ji 	藍牙耳機	c=1 d=0.909373 t=313
+le 	了	c=9 d=5.60201 t=313
+le ma 	了嗎	c=0 d=0.1 t=278
+li ge 	離歌	c=1 d=1 t=313
+li mian 	裏面	c=6 d=4.1311 t=313
+lie biao 	列表	c=1 d=1 t=232
+ling min du 	靈敏度	c=3 d=2.93496 t=313
+ma 	嗎	c=1 d=0.806541 t=313
+mei fan ying 	沒反應	c=1 d=1 t=313
+mei hua 	梅花	c=1 d=0.995012 t=313
+mei hua 	美化	c=1 d=0.865022 t=313
+ming cheng 	名稱	c=0 d=0.1 t=281
+ming cheng yi lan 	名稱一覽	c=1 d=1 t=282
+ming ling 	命令	c=1 d=0.99005 t=313
+mo ni qi 	模擬器	c=1 d=0.802519 t=313
+mo shi 	模式	c=1 d=0.985112 t=313
+na ge 	那個	c=2 d=1.78881 t=313
+na ge shi 	哪個是	c=1 d=0.941765 t=313
+ni ma 	你媽	c=0 d=0.0927743 t=313
+ni ma ge 	你媽個	c=1 d=0.932394 t=313
+niu bi 	牛逼	c=1 d=0.937067 t=313
+pan ben 	盤本	c=1 d=0.99005 t=313
+pei 	配	c=0 d=0.1 t=230
+pei se 	配色	c=2 d=1.84163 t=313
+pei zhi 	配制	c=1 d=0.995012 t=313
+pei zhi 	配置	c=6 d=5.12259 t=313
+qi ta ren 	其他人	c=1 d=0.913931 t=313
+qie er nuo bei li 	切爾諾貝利	c=1 d=1 t=313
+qie huan dao 	切換到	c=1 d=0.960789 t=313
+rang 	讓	c=2 d=1.31262 t=313
+ru shang 	如上	c=1 d=1 t=277
+shan chu 	刪除	c=4 d=3.45204 t=313
+shang 	上	c=1 d=0.878095 t=313
+shang ci 	上次	c=1 d=0.955997 t=313
+shang wang 	上網	c=0 d=0.0951229 t=313
+shang yi ge 	上一個	c=1 d=0.97531 t=313
+shen me 	什麼	c=1 d=1 t=284
+sheng lve 	省略	c=1 d=0.955997 t=313
+shi 	是	c=2 d=1.38537 t=313
+shi shen me 	是什麼	c=4 d=2.72774 t=313
+shi xian 	實現	c=3 d=2.37227 t=313
+shi yin wei 	是因爲	c=1 d=1 t=278
+shi yong 	使用	c=7 d=5.57764 t=313
+shou dao 	收到	c=2 d=1.7865 t=313
+shu biao 	鼠標	c=1 d=1.00858 t=313
+shu biao ling min du 	鼠標靈敏度	c=2 d=1.90722 t=313
+shu chu 	輸出	c=2 d=1.62135 t=313
+shu ru fa 	輸入法	c=1 d=0.99005 t=313
+su 	蘇	c=1 d=0.965605 t=313
+suo you 	所有	c=1 d=0.970446 t=313
+tian jia 	添加	c=0 d=0.099005 t=313
+tian jia le 	添加了	c=2 d=1.56162 t=313
+tong zhi 	通知	c=2 d=1.81151 t=313
+tou wen jian 	頭文件	c=1 d=1 t=289
+tuo pan 	托盤	c=1 d=1 t=313
+wang hai 	王海	c=0 d=0.0951229 t=313
+wang hai xin 	王海鑫	c=1 d=0.955997 t=313
+wen jian 	文件	c=9 d=5.88544 t=313
+wo 	我	c=5 d=2.99633 t=313
+wo cao 	我操	c=1 d=0.946485 t=313
+wo cao ni ma 	我草泥馬	c=1 d=0.927743 t=313
+wo de 	我的	c=4 d=3.31765 t=313
+wo shi yong 	我使用	c=2 d=1.56495 t=313
+wo xiang 	我想	c=0 d=0.0904837 t=313
+wo xiang 	我相	c=1 d=0.932394 t=313
+wo xiang rang 	我想讓	c=1 d=0.909373 t=313
+wo zai 	我在	c=2 d=1.29948 t=313
+wu xiao 	無效	c=2 d=1.80611 t=313
+xi tong 	系統	c=1 d=1 t=300
+xia 	下	c=1 d=1 t=307
+xia mian 	下面	c=1 d=1 t=251
+xia zai 	下載	c=2 d=1.94111 t=313
+xian shi 	顯示	c=2 d=1.81293 t=313
+xiang 	想	c=3 d=1.76132 t=313
+xiang ba 	想把	c=1 d=1 t=266
+xiao 	筱	c=1 d=0.970446 t=313
+xie 	寫	c=0 d=0.0937067 t=313
+xie cuo 	寫錯	c=0 d=0.1 t=278
+xie yi ge 	寫一個	c=1 d=0.941765 t=313
+xin 	鑫	c=0 d=0.0951229 t=313
+xin xi 	信息	c=1 d=0.909373 t=313
+xing 	星	c=0 d=0.099005 t=313
+xiu gai 	修改	c=1 d=0.782705 t=313
+xuan xiang 	旋向	c=1 d=0.932394 t=313
+xuan xiang 	選項	c=1 d=1.07344 t=313
+xuan xiang li mian 	選項裏面	c=1 d=0.937067 t=313
+yan se 	顏色	c=1 d=0.97531 t=313
+yao 	要	c=1 d=1 t=253
+yao qiu 	要求	c=1 d=0.951229 t=313
+ye 	也	c=1 d=0.923116 t=313
+yi 	一	c=1 d=0.900325 t=313
+yi ge 	一個	c=1 d=0.903718 t=313
+yi jing 	已經	c=2 d=1.62948 t=313
+yi lan 	一覽	c=0 d=0.1 t=281
+yi shou dao 	已收到	c=1 d=0.895834 t=313
+yi si 	意思	c=2 d=1.95084 t=313
+yi wai 	以外	c=1 d=0.965605 t=313
+yin cang 	隱藏	c=1 d=0.995012 t=313
+yin cang wen jian 	隱藏文件	c=1 d=0.980199 t=313
+yin liang 	音量	c=3 d=2.73831 t=301
+yin ru 	引入	c=1 d=1 t=249
+yong 	用	c=1 d=0.985112 t=313
+yong fa 	用法	c=1 d=0.860708 t=313
+you 	又	c=1 d=0.995012 t=313
+you mei you 	有沒有	c=1 d=0.970446 t=313
+yu yan 	語言	c=3 d=2.10166 t=313
+yuan cheng 	遠程	c=2 d=1.7576 t=313
+zai 	在	c=3 d=1.69813 t=313
+zen 	怎	c=1 d=1 t=291
+zen me 	怎麼	c=9 d=6.34927 t=313
+zen me ban 	怎麼辦	c=1 d=0.923116 t=313
+zen me shi xian 	怎麼實現	c=1 d=1 t=292
+zen me yong 	怎麼用	c=1 d=0.869358 t=313
+zeng da 	增大	c=1 d=1 t=303
+zeng jia 	增加	c=2 d=1.3626 t=313
+zhe li 	這裏	c=1 d=1 t=252
+zhe li mian 	這裏面	c=1 d=1 t=259
+zhe xie 	這些	c=4 d=3.41226 t=313
+zhe yang 	這樣	c=1 d=0.869358 t=313
+zhi ding 	制定	c=0 d=0.0965605 t=313
+zhi ding 	指定	c=2 d=1.97032 t=313
+zhi ding wen jian 	制定文件	c=1 d=0.970446 t=313
+zhi zhen 	指針	c=1 d=0.932394 t=313
+zhong duan 	終端	c=2 d=1.78856 t=313
+zhun huan 	准環	c=1 d=0.865022 t=313
+zhuo mian 	桌面	c=0 d=0.0878095 t=313
+zhuo mian huan jing 	桌面環境	c=2 d=1.5728 t=313
+zi dong 	自動	c=2 d=1.85558 t=313
+zi fu chuan 	字符串	c=1 d=0.97531 t=313

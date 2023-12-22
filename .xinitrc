@@ -51,5 +51,6 @@ fi
 ~/scripts/runClash.sh &
 fcitx5 -d
 dunst &
+xinput --set-prop 13 "libinput Accel Speed" -0.5
 #feh --recursive --randomize --bg-fill ~/pictures/background
 exec dwm

@@ -28,3 +28,6 @@ opt.smartcase = true
 opt.termguicolors = true
 opt.signcolumn = "yes"
 vim.cmd[[colorscheme tokyonight-moon]]
+
+vim.api.nvim_set_keymap('n', '<C-e>', '<C-d>', { noremap = true })
+

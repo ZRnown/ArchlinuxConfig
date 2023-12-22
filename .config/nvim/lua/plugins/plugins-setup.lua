@@ -20,7 +20,7 @@ local plugins = {
       "nvim-tree/nvim-tree.lua",
       "numToStr/Comment.nvim",-- gcc和gc注释
       "akinsho/bufferline.nvim",
-      "lewis6991/gitsigns.nvim"
+      "lewis6991/gitsigns.nvim",-- git 增删改提示
     }
 
 local opts = {} -- 注意要定义这个变量

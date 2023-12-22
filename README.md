@@ -68,3 +68,23 @@ GLFW_IM_MODULE=ibus
 https_proxy=http://127.0.0.1:7890
 http_proxy=http://127.0.0.1:7890
 ```
+## GRUB引导界面美化
+
+在https://www.pling.com/p/1230882下载主题
+接下来 cd 进解压出来的文件夹，打开 终端 输入
+```bash
+sudo cp . /usr/share/grub/themes/Distro -rf
+```
+
+以将主题放置在系统的 GRUB 默认文件夹内。
+
+接着编辑 /etc/default/grub 文件，找到 #GRUB_THEME= 一行，将前面的注释去掉，并指向主题的 theme.txt 文件。即
+
+```
+#GRUB_THEME=
+GRUB_THEME="/usr/share/grub/themes/Distro/theme.txt" #修改后
+```
+然后再在终端输入
+```bash
+grub-mkconfig -o /boot/grub/grub.cfg
+```

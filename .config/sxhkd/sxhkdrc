@@ -1,0 +1,6 @@
+# 音量增大
+Pause
+      amixer set Master 5%+
+# 音量减小
+Print
+      amixer set Master 5%-

@@ -9,8 +9,33 @@ cover: /assets/images/1.png
 timeline: article  # 展示在时间线列表中
 ---
 
+# DWM 窗口管理器
 
-# About zsh
+[我的DWM配置](https://github.com/ZRnown/mydwm)
+
+这是大佬编译的`dwm`，补丁完美无冲突，我将其做了细微改动，去除了自己不需要的功能。
+
+## patches
+
+- dwm-alpha-6.3.diff
+- dwm-alpha-systray-6.3.diff
+- dwm-autostart-20161205-bb3bd6f.diff
+- dwm-doublepressquit-6.3.diff
+- dwm-fancybar-20200423-ed3ab6b.diff
+- dwm-fullgaps-toggle-20200830.diff
+- dwm-gaplessgrid-20160731-56a31dc.diff
+- dwm-hide_vacant_tags-6.3.diff
+- dwm-launchers-20200527-f09418b.diff
+- dwm-pertag-perseltag-6.2.diff
+- dwm-restartsig-20180523-6.2.diff
+- dwm-rotatestack-20161021-ab9571b.diff
+- dwm-scratchpad-6.2.diff
+- dwm-statuscmd-20210405-67d76bd.diff
+- dwm-viewontag-20210312-61bb8b2.diff
+
+# St(Simple Terminal) 极简主义终端
+
+[我的st配置](https://github.com/ZRnown/myst)
 
 ## 安装zim
 ```bash
@@ -20,12 +45,7 @@ curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | 
 ```bash
 git clone https://github.com/yshui/picom.git
 ```
-## 安装feh nautilus flameshot qq clash yesplaymusic
-```bash
-wget https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage
 
-sudo pacman -S feh nautilus flameshot
-```
 ## 小鹤双拼
 ```baash
 git clone https://github.com/ssnhd/rime.git ~/.config/fcitx5/rime
@@ -59,13 +79,17 @@ Icon=/path/to/qq/icon.png
 
 ### 鼠标灵敏度
 ```bash
-xinput list
+xinput list #列出使用的设备
 xinput --set-prop "设备ID" "libinput Accel Speed" -0.5
 ```
 ## 需要安装的东西
+## 安装feh nautilus flameshot qq clash yesplaymusic
 ```bash
-sudo pacman -S Hightlight fzf feh fd zsh lolcat
-```
+wget https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage
+
+sudo pacman -S feh nautilus flameshot Hightlight fzf feh fd zsh lolcat
+``` 
+
 ## 配置环境变量
 
 ```bash

@@ -8,3 +8,4 @@ source ~/.config/zsh/fzf.zsh
 source ~/.config/zsh/env.zsh
 source ~/.config/zsh/key-bindings.zsh
 source ~/.config/zsh/completion.zsh
+export PATH=~/.npm-global/bin:$PATH

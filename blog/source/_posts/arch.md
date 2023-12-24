@@ -5,8 +5,8 @@ toc: true
 tags: 
   - Linux
 categories: Computer  # 属于 life 子类下
-cover: /assets/images/1.png
 timeline: article  # 展示在时间线列表中
+excerpt: "我现在使用Windows10+Archlinux双系统,记录自己折腾archlinux的那些日子"
 ---
 
 # DWM 窗口管理器

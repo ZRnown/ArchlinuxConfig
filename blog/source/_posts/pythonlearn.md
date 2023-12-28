@@ -963,6 +963,48 @@ python3中，可以通过以下方式查找内置的error
 >>> import builtins
 >>> dir(builtins)
 ```
+
+## 文件操作
+a模式下写永远会把光标移动到尾部
+```python
+#汉字占三个字节seek移动指定字节处
+file.seek(3)
+#tell输出光标位置
+file.tell()
+file.write("哈哈")
+for line in file:
+    print(line)
+    if line.startswith('abc')
+        pass
+
+readline() #读取一行
+readlines() #读取所有行,每一行作为一个列表里面的一个元素
+print(data.strip())
+replace(x,y)
+#startswith() 是 Python 字符串的一个方法，用于检查字符串是否以指定的子字符串开头。它返回一个布尔值，指示字符串是否以指定的前缀开头。
+```
+### 处理xlsx文件
+```python
+from openpyxl import load_workbook
+wb = load_workbook('test.xlsx')
+wb.sheetnames#输出所有sheet的name
+sheet = wb['sheet1']
+cell=sheet.cell(1,1)
+cell.value#一行一列的值
+cell.style#样式
+cell.font#字体信息
+cell.alignment#排列情况
+```
+```python
+#1.修改sheet名称
+sheet=wb.worksheets[0]
+sheet.title='数据集'
+wb.save('p2.xlsx')
+#2.创建sheet并设置sheet颜色
+sheet=wb.create_sheet('工作计划',0)
+sheet.sheet_properties.tabColor='1072BA'
+wb.save('p2.xlsx')
+```
 ## 需注意
 **一种优雅的交换变量方式**
 `x,y=y,x`
